@@ -12,7 +12,7 @@ namespace OpenAI
         private OpenAIApi openai = new OpenAIApi();
 
         private string userInput;
-        private string Instruction = "Refute my argument\nQ: ";
+        private string Instruction = "Act as a random stranger in a chat room and reply to the questions.\nQ: ";
 
         private void Start()
         {
