@@ -1,4 +1,4 @@
-# VRDebate
+# ArticuLab
 Winner at Stanford's TreeHack2023 on best frontier
 
 ## Inspiration
