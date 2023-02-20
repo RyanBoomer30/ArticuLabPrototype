@@ -1,4 +1,5 @@
-# TreeHack 2023
+# VRDebate
+Winner at Stanford's TreeHack2023 on best frontier
 
 ## Inspiration
 Public speaking is an incredibly important skill that many seek but few master. This is in part due to the high level of individualized attention and feedback needed to improve when practicing. Therefore, we want to solve this with AI! We have created a VR application that allows you to get constructive feedback as you present, debate, or perform by analyzing your arguments and speaking patterns. While this was our starting motivation for ArticuLab, we quickly noticed the expansive applications and social impact opportunities for it. ArticuLab could be used by people suffering from social anxiety to help improve their confidence in speaking in front of crowds and responding to contrasting opinions. It could also be used by people trying to become more fluent in a language, since it corrects pronunciation and word choice.
