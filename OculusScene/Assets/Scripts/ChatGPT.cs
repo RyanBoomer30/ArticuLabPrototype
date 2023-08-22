@@ -7,7 +7,7 @@ namespace OpenAI
     {
         [SerializeField] private Text textArea;
 
-        private OpenAIApi openai = new OpenAIApi("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");
+        private OpenAIApi openai = new OpenAIApi("Your token goes here");
 
         private string userInput;
         private string Instruction = "Pretend like you disagree with my opinion and explains why\nQ: ";
